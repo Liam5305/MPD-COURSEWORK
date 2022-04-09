@@ -4,7 +4,6 @@ package com.example.trafficinfo.controller;
 // Matriculation Number: S2024208
 
 import android.content.Context;
-import android.content.res.Configuration;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
